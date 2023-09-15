@@ -24,6 +24,9 @@
 		1D04BB152AB4BA1600D0D66D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1D04BB182AB4BA1600D0D66D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1D04BB1A2AB4BA1600D0D66D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1D04BB212AB4BEBB00D0D66D /* JosefinSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "JosefinSans-Regular.ttf"; sourceTree = "<group>"; };
+		1D04BB222AB4BEBB00D0D66D /* JosefinSans-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "JosefinSans-SemiBold.ttf"; sourceTree = "<group>"; };
+		1D04BB232AB4BEBB00D0D66D /* JosefinSans-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "JosefinSans-Bold.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,8 +66,19 @@
 				1D04BB152AB4BA1600D0D66D /* Assets.xcassets */,
 				1D04BB172AB4BA1600D0D66D /* LaunchScreen.storyboard */,
 				1D04BB1A2AB4BA1600D0D66D /* Info.plist */,
+				1D04BB202AB4BDF300D0D66D /* Fonts */,
 			);
 			path = FoodyBite;
+			sourceTree = "<group>";
+		};
+		1D04BB202AB4BDF300D0D66D /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				1D04BB232AB4BEBB00D0D66D /* JosefinSans-Bold.ttf */,
+				1D04BB212AB4BEBB00D0D66D /* JosefinSans-Regular.ttf */,
+				1D04BB222AB4BEBB00D0D66D /* JosefinSans-SemiBold.ttf */,
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
