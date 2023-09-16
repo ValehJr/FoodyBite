@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "monika-grabkowska-759473-unsplash.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "monika-grabkowska-759473-unsplash 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "monika-grabkowska-759473-unsplash 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

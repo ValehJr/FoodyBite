@@ -9,17 +9,23 @@
 /* Begin PBXBuildFile section */
 		1D04BB0D2AB4BA1400D0D66D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D04BB0C2AB4BA1400D0D66D /* AppDelegate.swift */; };
 		1D04BB0F2AB4BA1400D0D66D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D04BB0E2AB4BA1400D0D66D /* SceneDelegate.swift */; };
-		1D04BB112AB4BA1400D0D66D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D04BB102AB4BA1400D0D66D /* ViewController.swift */; };
 		1D04BB142AB4BA1400D0D66D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D04BB122AB4BA1400D0D66D /* Main.storyboard */; };
 		1D04BB162AB4BA1600D0D66D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D04BB152AB4BA1600D0D66D /* Assets.xcassets */; };
 		1D04BB192AB4BA1600D0D66D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D04BB172AB4BA1600D0D66D /* LaunchScreen.storyboard */; };
+		1D29E1982AB5704100F60BA4 /* DesignableTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D29E1972AB5704100F60BA4 /* DesignableTextField.swift */; };
+		1D29E19A2AB5985300F60BA4 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D29E1992AB5985300F60BA4 /* LoginViewController.swift */; };
+		1D93F3E42AB5C76B00F8969D /* ForgotPasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D93F3E32AB5C76B00F8969D /* ForgotPasswordViewController.swift */; };
+		1D93F3E72AB5CBE000F8969D /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D93F3E62AB5CBE000F8969D /* RegisterViewController.swift */; };
+		1DC02BAC2AB59B2300F38D15 /* JosefinSans-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1D04BB222AB4BEBB00D0D66D /* JosefinSans-SemiBold.ttf */; };
+		1DC02BAD2AB59B2600F38D15 /* JosefinSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1D04BB232AB4BEBB00D0D66D /* JosefinSans-Bold.ttf */; };
+		1DC02BAE2AB59B2900F38D15 /* JosefinSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1D04BB212AB4BEBB00D0D66D /* JosefinSans-Regular.ttf */; };
+		1DC02BB02AB5C33900F38D15 /* JosefinSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1DC02BAF2AB5C33900F38D15 /* JosefinSans-Light.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		1D04BB092AB4BA1400D0D66D /* FoodyBite.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodyBite.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D04BB0C2AB4BA1400D0D66D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1D04BB0E2AB4BA1400D0D66D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		1D04BB102AB4BA1400D0D66D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		1D04BB132AB4BA1400D0D66D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1D04BB152AB4BA1600D0D66D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1D04BB182AB4BA1600D0D66D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -27,6 +33,11 @@
 		1D04BB212AB4BEBB00D0D66D /* JosefinSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "JosefinSans-Regular.ttf"; sourceTree = "<group>"; };
 		1D04BB222AB4BEBB00D0D66D /* JosefinSans-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "JosefinSans-SemiBold.ttf"; sourceTree = "<group>"; };
 		1D04BB232AB4BEBB00D0D66D /* JosefinSans-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "JosefinSans-Bold.ttf"; sourceTree = "<group>"; };
+		1D29E1972AB5704100F60BA4 /* DesignableTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignableTextField.swift; sourceTree = "<group>"; };
+		1D29E1992AB5985300F60BA4 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		1D93F3E32AB5C76B00F8969D /* ForgotPasswordViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForgotPasswordViewController.swift; sourceTree = "<group>"; };
+		1D93F3E62AB5CBE000F8969D /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
+		1DC02BAF2AB5C33900F38D15 /* JosefinSans-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "JosefinSans-Light.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,24 +72,36 @@
 			children = (
 				1D04BB0C2AB4BA1400D0D66D /* AppDelegate.swift */,
 				1D04BB0E2AB4BA1400D0D66D /* SceneDelegate.swift */,
-				1D04BB102AB4BA1400D0D66D /* ViewController.swift */,
 				1D04BB122AB4BA1400D0D66D /* Main.storyboard */,
+				1D93F3E52AB5C77400F8969D /* ViewControllers */,
+				1D29E1972AB5704100F60BA4 /* DesignableTextField.swift */,
 				1D04BB152AB4BA1600D0D66D /* Assets.xcassets */,
 				1D04BB172AB4BA1600D0D66D /* LaunchScreen.storyboard */,
 				1D04BB1A2AB4BA1600D0D66D /* Info.plist */,
-				1D04BB202AB4BDF300D0D66D /* Fonts */,
+				1D04BB202AB4BDF300D0D66D /* Font */,
 			);
 			path = FoodyBite;
 			sourceTree = "<group>";
 		};
-		1D04BB202AB4BDF300D0D66D /* Fonts */ = {
+		1D04BB202AB4BDF300D0D66D /* Font */ = {
 			isa = PBXGroup;
 			children = (
+				1DC02BAF2AB5C33900F38D15 /* JosefinSans-Light.ttf */,
 				1D04BB232AB4BEBB00D0D66D /* JosefinSans-Bold.ttf */,
 				1D04BB212AB4BEBB00D0D66D /* JosefinSans-Regular.ttf */,
 				1D04BB222AB4BEBB00D0D66D /* JosefinSans-SemiBold.ttf */,
 			);
-			path = Fonts;
+			path = Font;
+			sourceTree = "<group>";
+		};
+		1D93F3E52AB5C77400F8969D /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				1D29E1992AB5985300F60BA4 /* LoginViewController.swift */,
+				1D93F3E32AB5C76B00F8969D /* ForgotPasswordViewController.swift */,
+				1D93F3E62AB5CBE000F8969D /* RegisterViewController.swift */,
+			);
+			path = ViewControllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -140,8 +163,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D04BB192AB4BA1600D0D66D /* LaunchScreen.storyboard in Resources */,
+				1DC02BAE2AB59B2900F38D15 /* JosefinSans-Regular.ttf in Resources */,
 				1D04BB162AB4BA1600D0D66D /* Assets.xcassets in Resources */,
 				1D04BB142AB4BA1400D0D66D /* Main.storyboard in Resources */,
+				1DC02BAC2AB59B2300F38D15 /* JosefinSans-SemiBold.ttf in Resources */,
+				1DC02BAD2AB59B2600F38D15 /* JosefinSans-Bold.ttf in Resources */,
+				1DC02BB02AB5C33900F38D15 /* JosefinSans-Light.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -152,9 +179,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1D04BB112AB4BA1400D0D66D /* ViewController.swift in Sources */,
+				1D29E19A2AB5985300F60BA4 /* LoginViewController.swift in Sources */,
+				1D93F3E42AB5C76B00F8969D /* ForgotPasswordViewController.swift in Sources */,
 				1D04BB0D2AB4BA1400D0D66D /* AppDelegate.swift in Sources */,
+				1D93F3E72AB5CBE000F8969D /* RegisterViewController.swift in Sources */,
 				1D04BB0F2AB4BA1400D0D66D /* SceneDelegate.swift in Sources */,
+				1D29E1982AB5704100F60BA4 /* DesignableTextField.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
