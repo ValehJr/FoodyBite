@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "2203520_circle_dot_record_round_icon-4 2.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "2203520_circle_dot_record_round_icon-4 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "2203520_circle_dot_record_round_icon-4.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

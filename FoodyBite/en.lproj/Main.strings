@@ -1,0 +1,150 @@
+
+/* Class = "UILabel"; text = "Already have an account?"; ObjectID = "0x1-xI-Q1W"; */
+"0x1-xI-Q1W.text" = "Already have an account?";
+
+/* Class = "UITabBarItem"; title = "Item 1"; ObjectID = "1Wn-hn-hXE"; */
+"1Wn-hn-hXE.title" = "Item 1";
+
+/* Class = "UILabel"; text = "Friends"; ObjectID = "3DO-sw-ZP2"; */
+"3DO-sw-ZP2.text" = "Friends";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "4Bq-LG-fT1"; */
+"4Bq-LG-fT1.placeholder" = "Email";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "4Un-VE-VfF"; */
+"4Un-VE-VfF.configuration.title" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "4Un-VE-VfF"; */
+"4Un-VE-VfF.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "4bT-Wa-WLt"; */
+"4bT-Wa-WLt.title" = "Item";
+
+/* Class = "UITabBarItem"; title = "Item 2"; ObjectID = "77t-pf-jte"; */
+"77t-pf-jte.title" = "Item 2";
+
+/* Class = "UIButton"; configuration.title = "See all"; ObjectID = "7vn-go-q6u"; */
+"7vn-go-q6u.configuration.title" = "See all";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7vn-go-q6u"; */
+"7vn-go-q6u.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Create New Account"; ObjectID = "910-T0-2u5"; */
+"910-T0-2u5.configuration.title" = "Create New Account";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "910-T0-2u5"; */
+"910-T0-2u5.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "BYL-Dw-lIv"; */
+"BYL-Dw-lIv.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ByV-ee-ZuF"; */
+"ByV-ee-ZuF.text" = "Label";
+
+/* Class = "UILabel"; text = "394 Broome St, New York, NY 10013, USA"; ObjectID = "CSh-1o-ijg"; */
+"CSh-1o-ijg.text" = "394 Broome St, New York, NY 10013, USA";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IP8-iZ-JoH"; */
+"IP8-iZ-JoH.text" = "Label";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "Idc-K8-2SA"; */
+"Idc-K8-2SA.text" = "Forgot Password";
+
+/* Class = "UITextField"; placeholder = "Confirm password"; ObjectID = "MqA-i5-KMJ"; */
+"MqA-i5-KMJ.placeholder" = "Confirm password";
+
+/* Class = "UIButton"; configuration.title = "Skip"; ObjectID = "PQm-K9-TbF"; */
+"PQm-K9-TbF.configuration.title" = "Skip";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "PQm-K9-TbF"; */
+"PQm-K9-TbF.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Forgot password?"; ObjectID = "QoY-ms-63u"; */
+"QoY-ms-63u.configuration.title" = "Forgot password?";
+
+/* Class = "UIButton"; normalTitle = "Forgot password?"; ObjectID = "QoY-ms-63u"; */
+"QoY-ms-63u.normalTitle" = "Forgot password?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Qx3-Aj-f0x"; */
+"Qx3-Aj-f0x.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Find Restaurants"; ObjectID = "Re6-5x-Nth"; */
+"Re6-5x-Nth.placeholder" = "Find Restaurants";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "RoU-ne-MKe"; */
+"RoU-ne-MKe.text" = "Category";
+
+/* Class = "UIButton"; configuration.title = "Register"; ObjectID = "SYL-Z3-geB"; */
+"SYL-Z3-geB.configuration.title" = "Register";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "SYL-Z3-geB"; */
+"SYL-Z3-geB.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Turn on Location"; ObjectID = "VS7-Am-owG"; */
+"VS7-Am-owG.configuration.title" = "Turn on Location";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "VS7-Am-owG"; */
+"VS7-Am-owG.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Vdi-Ry-gZT"; */
+"Vdi-Ry-gZT.text" = "Label";
+
+/* Class = "UILabel"; text = "Welcome to Foody"; ObjectID = "Xjx-c9-Oa4"; */
+"Xjx-c9-Oa4.text" = "Welcome to Foody";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "YFV-fr-GiG"; */
+"YFV-fr-GiG.configuration.title" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "YFV-fr-GiG"; */
+"YFV-fr-GiG.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Zpc-D5-7kj"; */
+"Zpc-D5-7kj.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "a2q-8d-kQk"; */
+"a2q-8d-kQk.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "FoodyBite"; ObjectID = "cJt-fo-dUt"; */
+"cJt-fo-dUt.text" = "FoodyBite";
+
+/* Class = "UILabel"; text = "Hi,"; ObjectID = "cYn-CG-qcj"; */
+"cYn-CG-qcj.text" = "Hi,";
+
+/* Class = "UILabel"; text = "Enter your email and we will send you an instruction"; ObjectID = "csR-8e-WGU"; */
+"csR-8e-WGU.text" = "Enter your email and we will send you an instruction";
+
+/* Class = "UIButton"; configuration.title = "See all"; ObjectID = "lS8-Te-O1l"; */
+"lS8-Te-O1l.configuration.title" = "See all";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lS8-Te-O1l"; */
+"lS8-Te-O1l.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "o0V-Rt-Swe"; */
+"o0V-Rt-Swe.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Trending Restaurants"; ObjectID = "oUi-Zs-uRw"; */
+"oUi-Zs-uRw.text" = "Trending Restaurants";
+
+/* Class = "UILabel"; text = "Enable your Location to see the restaraunts around you"; ObjectID = "pY0-a3-ydA"; */
+"pY0-a3-ydA.text" = "Enable your Location to see the restaraunts around you";
+
+/* Class = "UIButton"; configuration.title = "See all"; ObjectID = "qdf-Mk-ldg"; */
+"qdf-Mk-ldg.configuration.title" = "See all";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qdf-Mk-ldg"; */
+"qdf-Mk-ldg.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "qve-37-tGV"; */
+"qve-37-tGV.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "sYT-Bg-Ig0"; */
+"sYT-Bg-Ig0.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Happy Bones"; ObjectID = "tdc-p9-rXW"; */
+"tdc-p9-rXW.text" = "Happy Bones";
+
+/* Class = "UIButton"; configuration.title = "Send"; ObjectID = "vPS-WX-ZO4"; */
+"vPS-WX-ZO4.configuration.title" = "Send";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vPS-WX-ZO4"; */
+"vPS-WX-ZO4.normalTitle" = "Button";

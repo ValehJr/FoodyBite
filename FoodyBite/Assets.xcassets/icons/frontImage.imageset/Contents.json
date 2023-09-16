@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "4781843_arrows_chevron_direction_left_move_icon-4.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "4781843_arrows_chevron_direction_left_move_icon-3.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "4781843_arrows_chevron_direction_left_move_icon-2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
